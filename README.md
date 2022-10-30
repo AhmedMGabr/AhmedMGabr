@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedMGabr
 - 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, and Java.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
