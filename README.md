@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AhmedMGabr
-- 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning HTML, CSS, and Java.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter, Dart, and Java.
 
 <!---
 AhmedMGabr/AhmedMGabr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
